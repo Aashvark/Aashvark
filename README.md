@@ -11,7 +11,7 @@
 ------------
 
 If you want to contact me for buisness purposes use:
-*kenter330@gmail.com*
+*contactkom6a@gmail.com*
 ###### *note* do NOT use this email in any other form than contacting me
 ###### this includes but is not limited to:
 ###### - advertising
