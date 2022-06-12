@@ -6,7 +6,7 @@
 - The EckDaniels Resturant.
 
 #### Im currently working on:
-- The Kolks Programming Language (version 1).
+- The Kolks Programming Language (version 1.2).
 
 ------------
 
