@@ -1,12 +1,12 @@
 # ***Ash Pixel***
 #### Hello, I am a Python Software Developer, HTML and CSS website developer, and an Pixel Artist.
 #### Some of my projects include:
-- The Kolks Programming Language (pre-version 1.6 beta-2).
+- The Kolks Programming Language (version 1.2).
 - Haley the Voice Assistant.
-- The EckDaniels Resturant.
+- [The EckDaniels Resturant](https://eckdaniels.glitch.me).
 
 #### Im currently working on:
-- The Kolks Programming Language (version 1.2).
+- The Kolks Programming Language (version 1.3).
 
 ------------
 
